@@ -3055,7 +3055,7 @@ other's state to settle into a stable pattern. Its primary use is as an
 pattern, and the network will converge to the closest complete, stored
 pattern it "remembers."
 
-1.  The Network ($G = (V, E)$):
+1.  The Network $G=(V,E)$:
     *   It's an **undirected graph** with **nodes** (or units/neurons)
         $V$ and **edges** $E$.
     *   Each edge has an **integer weight** $w$. This weight is the
