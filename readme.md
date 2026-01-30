@@ -18,7 +18,7 @@ $$
     c : \mathcal{N} \mapsto \mathbb{R}
 $$
 
-Cost of feasible solution: $\mathbb{R}$
+Cost of feasible solution:
 
 $$c(S) := \underset{e \in S}{\sum} c(e)$$
 
