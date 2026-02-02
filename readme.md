@@ -3000,13 +3000,13 @@ fix temperature $T$
    update the current state to $S'$ with probability:
 
 $$
-e^{ \frac{ -\delta E } {k \cdot T} }
+e^{ \frac{ -\Delta E } {k \cdot T} }
 $$
 
 where,
 
 $$
-\delta E = E(S') - E(S) \gt 0
+\Delta E = E(S') - E(S) \gt 0
 $$
 
 
